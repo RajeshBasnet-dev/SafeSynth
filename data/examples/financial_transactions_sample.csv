@@ -1,0 +1,11 @@
+Transaction Amount,Account Balance,Transaction Type,Merchant Category,Country,Is Fraud
+120.25,5420.60,debit,groceries,US,0
+980.10,4440.50,debit,travel,US,0
+45.90,4394.60,debit,coffee,US,0
+2100.00,2294.60,credit,salary,US,0
+450.70,1843.90,debit,electronics,US,0
+89.20,1754.70,debit,transport,US,0
+35.40,1719.30,debit,coffee,US,0
+780.00,939.30,debit,shopping,US,1
+1320.00,2259.30,credit,refund,US,0
+67.50,2191.80,debit,groceries,US,0

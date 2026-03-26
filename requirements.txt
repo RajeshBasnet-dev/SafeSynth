@@ -4,6 +4,7 @@ sqlalchemy==2.0.38
 python-multipart==0.0.20
 pandas==2.2.3
 numpy==2.2.3
+scipy==1.15.2
 ctgan==0.10.2
 streamlit==1.43.2
 requests==2.32.3
