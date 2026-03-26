@@ -1,0 +1,10 @@
+fastapi==0.115.12
+uvicorn==0.34.0
+sqlalchemy==2.0.38
+python-multipart==0.0.20
+pandas==2.2.3
+numpy==2.2.3
+ctgan==0.10.2
+streamlit==1.43.2
+requests==2.32.3
+plotly==6.0.1
